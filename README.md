@@ -43,7 +43,7 @@ Appends a row for each coin, every run, with:
 
 ---
 
-## 🛠️ How to Run
+## 🛠 How to Run
 
 1. Open **Apps Script** editor from your Google Sheet
 2. Paste the script into `Code.gs`
@@ -53,7 +53,7 @@ Appends a row for each coin, every run, with:
 
 ---
 
-## ⏱ Trigger Setup
+##  Trigger Setup
 
 - **Event Source**: Time-driven
 - **Type**: Every 30 minutes
@@ -69,7 +69,7 @@ Appends a row for each coin, every run, with:
   -  On success: includes count + timestamp
   -  On failure: includes error message (e.g. API 429)
 
-📸 See: [`email-success.png`](email-success.png)
+ See: [`email-success.png`](email-success.png)
 
 ---
 
