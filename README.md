@@ -25,6 +25,15 @@ This Google Apps Script tracks the **top 15 cryptocurrencies** using the **CoinG
 
 ---
 
+
+##  Limitation
+
+Since we used free resources of App-script, If code is giving time-limit reach please use " const MOCK_MODE = true; " for mock sample to check the working of code. Else, wait for some while before manually running it continuously.
+
+
+---
+
+
 ##  How It Works
 
 ###  `Current Prices`
