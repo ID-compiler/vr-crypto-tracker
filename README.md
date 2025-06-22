@@ -19,6 +19,11 @@ This Google Apps Script tracks the **top 15 cryptocurrencies** using the **CoinG
 -  Sends email notification on success or failure
 
 ---
+## Google Sheet (Live Project)
+
+ [View the working project here](https://docs.google.com/spreadsheets/d/1ODM9RIZkauREc2LsBgto6AGPWypydj8LEemAeedHB5k/edit?usp=sharing)
+
+---
 
 ##  How It Works
 
