@@ -43,7 +43,7 @@ Appends a row for each coin, every run, with:
 
 ---
 
-## 🛠 How to Run
+##  How to Run
 
 1. Open **Apps Script** editor from your Google Sheet
 2. Paste the script into `Code.gs`
